@@ -114,7 +114,7 @@ const PitchDeck = () => {
                 <div className="relative">
                   <div className="glassmorphism rounded-3xl p-8">
                     <div className="text-center">
-                      <Smartphone className="w-24 h-24 mx-auto text-green-800 mb-4" />
+                      <span className="flex justify-center mb-4"><img src= "/images/pitch.png" alt='' className="w-95 h-auto object-contain rounded-xl"/></span>
                       <h3 className="text-2xl font-bold mb-2">Built for Rural Farmers</h3>
                       <p className="text-gray-600">No complex setup needed. Just a smartphone and desire for better farming.</p>
                     </div>
